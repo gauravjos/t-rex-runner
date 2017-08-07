@@ -9,6 +9,8 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 docker run -d -p 8888:80 gauravsj/t-rex-runner
 ```
 [http://localhost:8888](http://localhost:8888)
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+
+**go and enjoy!** :smile: 
+
 
 ![chrome offline game cast](game/assets/screenshot.gif)
