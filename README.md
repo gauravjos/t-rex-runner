@@ -2,7 +2,7 @@
 
 the trex runner game extracted from chrome offline err page. 
 
-### Thanks to [wayou](https://github.com/wayou) for extracted [source](https://github.com/wayou/t-rex-runner).
+##### Thanks to [wayou](https://github.com/wayou) for extracted [source](https://github.com/wayou/t-rex-runner).
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 ```
